@@ -190,6 +190,7 @@
 
 .services {
   padding-top: 100vh;
+  padding-bottom: 150px;
 }
 
 .services__title {
@@ -202,7 +203,7 @@
 
 .services__subtitle {
   margin: auto;
-  font-size: 22px;
+  font-size: 24px;
   line-height: 1.5;
   font-weight: 300;
   text-align: center;
@@ -250,9 +251,33 @@
 }
 
 .cards__description {
+  margin: 0;
   font-size: 14px;
   line-height: 1.55;
   font-weight: 300;
   text-align: center;
   padding: 0 20px;
+}
+
+.about {
+  padding: 150px 0;
+  background-color: #f0f0f0;
+}
+
+.about__title {
+  margin: 0 0 30px;
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 1.23;
+  text-align: center;
+}
+
+.about__image {
+  max-width: 380px;
+}
+
+.about__text {
+  font-size: 20px;
+  line-height: 1.55;
+  font-weight: 300;
 }
