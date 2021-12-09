@@ -2,5 +2,5 @@
   background-color: white;
   font-family: 'Open Sans', 'Arial', 'Helvetica', sans-serif;
   width:100%;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
