@@ -1,0 +1,8 @@
+.footer {
+  min-height: 150px;
+  background-image: url(../images/logo.jpeg);
+  background-color: #121f28;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}

@@ -3,19 +3,4 @@
   padding-bottom: 150px;
 }
 
-.services__title {
-  margin: 0 0 30px;
-  font-size: 42px;
-  font-weight: 600;
-  line-height: 1.23;
-  text-align: center;
-}
 
-.services__subtitle {
-  margin: auto;
-  font-size: 24px;
-  line-height: 1.5;
-  font-weight: 300;
-  text-align: center;
-  max-width: 560px;
-}

@@ -74,20 +74,6 @@
   z-index: 10;
 }
 
-.lead__btn {
-  color: rgb(255, 255, 255);
-  background-color: #3f999f;
-  border-radius: 30px;
-  margin-top: 84px;
-  z-index: 5;
-  text-decoration: none;
-  font-size: 16px;
-  font-weight: 700;
-  line-height: 60px;
-  padding: 0 60px;
-  text-align: center;
-}
-
 .arrow-container {
   width: 25px;
   /* cubic-bezier-easing = sine / mehr Beispiele: https://easings.net/ */

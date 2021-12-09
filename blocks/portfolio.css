@@ -1,0 +1,21 @@
+.portfolio {
+  padding: 150px 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery {
+  padding-top: 75px;
+}
+.gallery__row {
+  display: flex;
+  /* width: 100%; */
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.gallery__image {
+  width: 50%;
+}
