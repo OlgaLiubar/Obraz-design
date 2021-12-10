@@ -17,5 +17,14 @@
 }
 
 .gallery__image {
-  width: 50%;
+  width: 65%;
+  object-fit: cover;
+}
+
+.gallery__row_order_first .gallery__image:last-of-type {
+  width: 35%;
+}
+
+.gallery__row_order_second .gallery__image:first-of-type {
+  width: 35%;
 }
